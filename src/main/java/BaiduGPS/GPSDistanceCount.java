@@ -1,4 +1,4 @@
-package testClass;
+package BaiduGPS;
 
 import org.apache.commons.lang.StringUtils;
 
